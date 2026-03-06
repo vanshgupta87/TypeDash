@@ -3,12 +3,12 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/", "destination": "/home.html" },
+    { "source": "/", "destination": "home.html" },
     { "source": "/", "destination": "home.html" },
     { "source": "/game", "destination": "/game/game.html" },
     { "source": "/duel", "destination": "/game/game.html" }
   ],
   "errorPages": [
-    { "status": 404, "path": "/home.html" }
+    { "status": 404, "path": "home.html" }
   ]
 }
