@@ -105,7 +105,7 @@ Duel winner is determined by **WPM**. Accuracy is shown as a tiebreaker stat.
 
 ```
 type-dash/
-├── home.html           # Landing page — mode selection, settings, duel setup
+├── index.html           # Landing page — mode selection, settings, duel setup
 ├── home.css            # Landing page styles, theme variables, animations
 ├── home.js             # Menu logic, duel name initialization, routing
 ├── game.html           # Active typing session — prompt display, caret, timer
